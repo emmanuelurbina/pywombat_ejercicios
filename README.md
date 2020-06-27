@@ -19,4 +19,5 @@ Ejercicios de la plataforma [pywombat](https://pywombat.com)
     - se debe pasar el archivo como argumento al ejecutar el escript ```> cancion.py <:ruta/canciones.txt:>
 - Secuencia de una lista
     Encuentra la sueceuncia máxima dentro de una lista
+- Fecha Formateada
 > Emmanuel Lucio Urbina
