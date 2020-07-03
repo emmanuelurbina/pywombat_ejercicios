@@ -20,4 +20,6 @@ Ejercicios de la plataforma [pywombat](https://pywombat.com)
 - Secuencia de una lista
     Encuentra la sueceuncia máxima dentro de una lista
 - Fecha Formateada
+- Fibonacci
+- Tiempo de lectura
 > Emmanuel Lucio Urbina
