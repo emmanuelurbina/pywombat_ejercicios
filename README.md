@@ -11,7 +11,8 @@ Ejercicios de la plataforma [pywombat](https://pywombat.com)
     - requiere random2  `pip install random2`
 - Fecha actual con formato
 - Cuadrado de una lista
-
+- Palabra mas larga
+    Dada una cadena de texto, obtener la palabra mas larga.
 
 ##### Intermedio
 - Canción aleatoria
