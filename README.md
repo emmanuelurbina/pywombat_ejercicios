@@ -11,10 +11,11 @@ Ejercicios de la plataforma [pywombat](https://pywombat.com)
     - requiere random2  `pip install random2`
 - Fecha actual con formato
 - Cuadrado de una lista
-- Palabra mas larga
-    <br>
+- Palabra mas larga <br>
     Dada una cadena de texto, obtener la palabra mas larga.
 - Elemento mayor en una lista
+- Minutos en horas <br>
+    Calcula los minutos en una hora.
 ##### Intermedio
 - Canción aleatoria
     - requiere un archivo txt con las canciones
