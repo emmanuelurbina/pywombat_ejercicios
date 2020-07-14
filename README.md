@@ -29,4 +29,6 @@ Ejercicios de la plataforma [pywombat](https://pywombat.com)
     <br>
     Tiempo en que tarda una persona en leer un texto, tomando como referencia 265 palabras por media de lectura
 - Números pares en una secuencia
+- Suma de filas y columnas de una matriz n*n
+
 > Emmanuel Lucio Urbina
