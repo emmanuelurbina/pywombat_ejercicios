@@ -16,6 +16,7 @@ Ejercicios de la plataforma [pywombat](https://pywombat.com)
 - Elemento mayor en una lista
 - Minutos en horas <br>
     Calcula los minutos en una hora.
+- Lista libro de una lista
 ##### Intermedio
 - Canción aleatoria
     - requiere un archivo txt con las canciones
